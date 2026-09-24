@@ -1,0 +1,8 @@
+[package]
+name = "c_0015_ansi"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# cargo add ansi_term
+ansi_term = "0.12.1"
